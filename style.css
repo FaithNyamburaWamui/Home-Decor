@@ -1,0 +1,75 @@
+#text{
+    padding-left: 40%;
+    display: flex;
+
+    
+}
+.list{
+    align-items: center;
+    display: flex;
+    list-style: none;
+}
+.text{
+    
+    display:list-item;
+    grid-template-columns:40% 50%;
+
+}
+.image{
+    text-align: center;
+    padding-bottom: 3%;
+
+}
+#bestsaller{
+    align-items: center;
+    display: grid;
+    padding-top: 10%;
+
+}
+.undraw{
+    display: inline-flex;
+    
+}
+
+#restyle{
+padding-inline-start: 50%;
+display: flexbox;
+}
+#OFFER{
+   display: grid;
+   list-style: none;
+   
+}
+#reviews{
+    display:inline-flex;
+    
+
+
+}
+.offer{
+    display: inline-flex;
+}
+.sentence{
+    align-items: last baseline;
+    padding:4% 4% 4% 4%;
+}
+.container{
+    display: flex;
+}
+#Online{
+    padding-bottom: 10%;
+text-align: start;
+}
+.Online{
+    padding-left: 50%;
+    
+}
+#footer{
+    display: flex;
+}
+.end{
+    list-style: none;
+}
+.reviews{
+    padding-left: 20%;
+}
